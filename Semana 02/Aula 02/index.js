@@ -1,3 +1,3 @@
-var minhaPrimeiraVariavel = "Olá JS";
+var minhaPrimeiraVariavel = 'Olá JS';
 
 console.log(minhaPrimeiraVariavel);
